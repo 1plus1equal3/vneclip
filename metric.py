@@ -1,3 +1,6 @@
+import torch
+import torchmetrics
+
 # Metric utilities for tracking training progress
 def reset_metrics(metrics):
     """ Resets all metrics in the provided dictionary. """

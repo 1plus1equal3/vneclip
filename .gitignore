@@ -1,8 +1,10 @@
 dataset
 checkpoints_v2
-weights
+dataset/*
+weights/*
 wandb*
 *.sh
 *.ipynb
 *.pyc
 __pycache__/
+!wandb_logger.py
