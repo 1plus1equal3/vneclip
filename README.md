@@ -273,6 +273,8 @@ deploy/
 
 ### Run Demo
 
+![A simple VNECLIP demo](./report/vneclip_demo.gif)
+
 ```bash
 cd deploy
 chmod +x run.sh stop.sh
